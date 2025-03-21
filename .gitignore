@@ -3,3 +3,4 @@ F_MNIST_data/*
 runs/*
 PyTorch_BootCamp_assets/*
 *.pt
+imagenet_classes.txt
