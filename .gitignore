@@ -1,2 +1,5 @@
 F_MNIST_data/*
 10_Monkey_Species/*
+runs/*
+PyTorch_BootCamp_assets/*
+*.pt
