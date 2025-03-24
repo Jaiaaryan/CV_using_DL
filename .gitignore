@@ -6,3 +6,4 @@ PyTorch_BootCamp_assets/*
 imagenet_classes.txt
 caltech256_subset/*
 *.pth
+logs/*
