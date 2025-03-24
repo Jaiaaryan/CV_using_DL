@@ -4,3 +4,5 @@ runs/*
 PyTorch_BootCamp_assets/*
 *.pt
 imagenet_classes.txt
+caltech256_subset/*
+*.pth
