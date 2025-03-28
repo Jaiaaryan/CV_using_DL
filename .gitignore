@@ -7,3 +7,5 @@ imagenet_classes.txt
 caltech256_subset/*
 *.pth
 logs/*
+*.png
+*.jpg
